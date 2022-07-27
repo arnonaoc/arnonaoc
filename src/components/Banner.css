@@ -1,0 +1,44 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.banner-bg {
+    height: 500px;
+    background: url(https://media.istockphoto.com/photos/lens-flare-picture-id950348874?k=20&m=950348874&s=612x612&w=0&h=GGQkx5aQySzRdofS0A3FQYbaooiJDY5ox1ewGJlSY2E=) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.banner-con {
+    display: Flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+.banner-text {
+    color: #fff;
+    text-align: center;
+}
+
+.banner-btn {
+    background: #fff;
+    display: inline-block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    color: #333;
+    border: 2px solid transparent;
+    transition: 0.3s;
+    margin-top: 1 rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+
+}
+
+.banner-btn:hover {
+    border : 2px solid #fff;
+    background: transparent;
+    color: #fff;
+
+}

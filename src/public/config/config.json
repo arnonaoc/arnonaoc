@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x0b4F142E7dc5942413EADbB737194797bB6943d9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b4F142E7dc5942413EADbB737194797bB6943d9",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+
+  
+  "NFT_NAME": "ANTHAHA1",
+  "SYMBOL": "ANT1",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/anthaha1",
+  "SHOW_BACKGROUND": true
+}

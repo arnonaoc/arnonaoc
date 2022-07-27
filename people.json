@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1 ,
+        "firstName": "Arnon",
+        "lastName": "prommoon",
+        "from" : "BKK",
+        "to" : "LPT"
+    } , 
+        
+    {
+        "id": 2 ,
+        "firstName": "Mew",
+        "lastName": "Malee",
+        "from" : "BKK",
+        "to" : "LPT"
+    } ,
+
+    {
+        "id": 3 ,
+        "firstName": "Jam",
+        "lastName": "Salinee",
+        "from" : "BKK",
+        "to" : "LPT"
+    }
+]
