@@ -5,9 +5,6 @@ import FlightApp from '../components/FlightApp'
 
 
 function Home() {
-
-  
-
   return (
     <Container>
         <FlightApp/>  

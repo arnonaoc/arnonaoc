@@ -2,8 +2,8 @@ import { Routes , Route} from 'react-router-dom'
 import NavBar from './components/Nav'
 
 import Home from './pages/Home'
-import Wallet from './pages/Wallet'
-import Mint from './pages/Mint'
+import ContractInfo from './pages/ContractInfo'
+import Booking from './pages/Booking'
 
 function App() {
 
@@ -12,8 +12,8 @@ function App() {
     <NavBar />
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/Wallet" element={<Wallet />} />
-      <Route path="/Mint" element={<Mint />} />
+      <Route path="/ContractInfo" element={<ContractInfo />} />
+      <Route path="/Booking" element={<Booking />} />
     </Routes>
   </>
 

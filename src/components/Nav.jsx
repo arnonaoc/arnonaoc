@@ -13,11 +13,13 @@ function Nav() {
                     <NavList>
                         <NavLink to='/'>Search flight</NavLink>
                     </NavList>
+                    
                     <NavList>
-                        <NavLink to='Wallet'>Wallet</NavLink>
+                        <NavLink to='Booking'>Booking Flight</NavLink>
                     </NavList>
+
                     <NavList>
-                        <NavLink to='Mint'>Mint</NavLink>
+                        <NavLink to='ContractInfo'>Contract Info</NavLink>
                     </NavList>
                 </NavMenu>
             </NavBar>
